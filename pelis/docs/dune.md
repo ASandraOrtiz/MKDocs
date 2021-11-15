@@ -16,6 +16,8 @@ Después de un atentado contra la vida de Paul por parte de un agente Harkonnen,
 El barón entrega el mando de Arrakis a su brutal sobrino Rabban y le ordena vender reservas de especia y reiniciar la producción para remunerar el costo del golpe. Paul y Jessica son encontrados por Idaho y Kynes y se dirigen a una antigua estación de investigación, pero los Sardaukar los localizan rápidamente. Duncan y varios Fremen se sacrifican para permitir que Jessica, Paul y Kynes escapen de las instalaciones. Kynes, emboscada por las tropas de Sardaukar, atrae a un gusano de arena que los devora junto con ella. Paul y Jessica llegan al desierto profundo y se encuentran con los Fremen, entre ellos Stilgar y Chani, la chica de las visiones de Paul. El guerrero Fremen Jamis protesta por su admisión y muere a manos de Paul en un duelo ritual a muerte. Contra los deseos de Jessica, Paul se une a los Fremen con la intención de traer la paz a Arrakis.
 
 
+
+
 ## Casas
 
 ### Casa Atreides
