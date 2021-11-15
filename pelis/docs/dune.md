@@ -40,6 +40,6 @@ La Casa Harkonnen aparece con especial relevancia en la novela, y tiene también
 El origen de la casa se encuentra en Xavier Harkonnen, militar amigo de Vorian Atreides durante la Yihad Butleriana, y Abulurd Harkonnen, su nieto y primer Barón de la Casa Harkonnen, cuya traición a Vorian Atreides dio origen a la ancestral enemistad que enfrenta a las dos Grandes Casas desde la Batalla de Corrin. El planeta feudo de los Harkonnen es Giedi Prime, anteriormente rico en recursos naturales, que bajo el dominio opresivo de los Harkonnen es sobreexplotado industrialmente convirtiéndose en una devastación contaminada. Aparte del control de la producción de especia melange en Arrakis, la Casa Harkonnen posee otras industrias importantes como la extracción de obsidiana azul, la cerveza negra Harkonnen o las plantaciones de tubérculos Krall. 
 
 
-###Fremen
+### Fremen
 Los Fremen son las tribus libres de Arrakis, también conocido como Dune, el planeta desierto que es la única fuente de especia melange en el universo conocido. Los fremen llegaron a Arrakis en tiempos de la Yihad Butleriana como Nómadas Zensunni, una secta religiosa caída en desgracia. Con el paso de los milenios, las increíblemente duras condiciones de Arrakis los conducen a convertirse en un pueblo nacido para la supervivencia, los Free Men (hombres libres) de Dune, nombre que acabó acortándose en Fremen. 
 
