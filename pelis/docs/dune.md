@@ -1,7 +1,7 @@
 
 # DUNE
 
-![dune](dune.jpg)
+![dune](img/dune.jpg)
 
 ## Sinopsis
 
