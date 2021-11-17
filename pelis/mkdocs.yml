@@ -4,4 +4,6 @@ theme:
  name: readthedocs
 
 extra:
- made by Sandra
+ social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/squidfunk
