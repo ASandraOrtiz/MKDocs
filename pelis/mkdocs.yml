@@ -1,11 +1,11 @@
 site_name: Pelis
 
 theme:
- name: material
+ name: readthedocs
 
 extra:
- generator: false
+
  social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/squidfunk
- copyright: Sandra Ortiz Vega - 2021 
+ copyright: Copyright &copy; Sandra Ortiz Vega - 2021 
