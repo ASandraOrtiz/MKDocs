@@ -1,7 +1,7 @@
 site_name: Pelis
 
 theme:
- name: readthedocs
+ name: material
 
 extra:
  generator: false
