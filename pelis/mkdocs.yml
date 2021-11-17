@@ -4,6 +4,8 @@ theme:
  name: readthedocs
 
 extra:
+ generator: false
  social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/squidfunk
+ copyright: Sandra Ortiz Vega - 2021 
