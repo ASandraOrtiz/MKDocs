@@ -30,3 +30,7 @@ Un día, los experimentos de Kronos en energía cósmica provocaron una liberaci
 |Dane Whitman|Kit Harignton|
 |Salma Hayek|Ajak|
 |Angelina Jolie|Thena|
+
+
+## Videos
+[Final explicado] (https://youtu.be/Qlbk95rO6Y8). 
