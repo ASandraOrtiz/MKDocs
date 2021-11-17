@@ -33,4 +33,4 @@ Un día, los experimentos de Kronos en energía cósmica provocaron una liberaci
 
 
 ## Videos
-[Final explicado] (https://youtu.be/Qlbk95rO6Y8). 
+[Final explicado](https://youtu.be/Qlbk95rO6Y8). 
