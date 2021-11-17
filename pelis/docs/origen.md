@@ -22,12 +22,12 @@ La película conecta de nuevo con la escena del principio, donde Cobb conversa c
 
 ## Quotes
 
->"En el estado de sueño, las defensas conscientes de uno se ven disminuidas y hace sus pensamientos vulnerables al hurto"
+> "En el estado de sueño, las defensas conscientes de uno se ven disminuidas y hace sus pensamientos vulnerables al hurto"
 
->"Construir un sueño desde tus recuerdos es la forma más fácil de perder la noción de qué es real y qué es un sueño"
+> "Construir un sueño desde tus recuerdos es la forma más fácil de perder la noción de qué es real y qué es un sueño"
 
->"El subconsciente es motivado por los sentimientos, no por la razón"
+> "El subconsciente es motivado por los sentimientos, no por la razón"
 
->"¿Cuál es el parasito más resistente? Una idea, es resistente y contagiosa"
+> "¿Cuál es el parasito más resistente? Una idea, es resistente y contagiosa"
 
->"Yo creo que los pensamientos positivos dominan a los negativos siempre, todos queremos reconciliación"
+> "Yo creo que los pensamientos positivos dominan a los negativos siempre, todos queremos reconciliación"
