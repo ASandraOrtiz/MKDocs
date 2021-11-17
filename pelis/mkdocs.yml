@@ -1,7 +1,7 @@
 site_name: Pelis
 
 theme:
-	name: readthedocs
+ name: readthedocs
 
 extra:
-	made by Sandra
+ made by Sandra
